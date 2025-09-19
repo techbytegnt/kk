@@ -1,3 +1,5 @@
 Hello Students
 
 hi how r u ??
+
+modified for merge conflicts
